@@ -25,7 +25,7 @@ void calculate(int start, vector<int>& nums, int count, int value){
   
 }
 
-
+///solution 함수 오류
 int solution(vector<int> nums) {
     int answer=0;
     for(int i=0;i<nums.size()-2;i++)
